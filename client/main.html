@@ -1,0 +1,15 @@
+<head>
+  <title>Henkiepedia</title>
+</head>
+
+<body>
+  <h1>Welkom op Henkiepedia.info!</h1>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+  {{#if Template.subscriptionsReady }}
+    {{> reactiveTable collection=uitspraken settings=settings class="table table-bordered table-hover"}}
+  {{/if}}
+</template>
