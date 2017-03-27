@@ -60,9 +60,22 @@ Meteor.startup(() => {
          }, {
             "uitspraak": "Door het riool",
             "uitleg": "Alternatieve vaarroute voor de binnenvaart wat meestal resulteert in vertragingen of zelfs opstopping/congestie."
+         }, {
+            "uitspraak": "Chinees Indisch Restaurant, Wat-Woi",
+            "uitleg": "Directe import route uit het verre Oosten van goederen die de haven van Rotterdam proberen over te slaan. Gebruik van deze optie is op eigen risico."
+         }, {
+            "uitspraak": "Welke Kip?? Oo, Sam’s Kip!",
+            "uitleg": "Henk's favoriet uit Rotterdam."
+         }, {
+            "uitspraak": "Ooh Groeneboom, Ooh Groeneboom, wat zijn uw takken wonderschoon",
+            "uitleg": "Henk's favoriete kerstliedje met een toefje terminal uit Ridderkerk. Wordt ook soms rond Pasen gezongen."
+         }, {
+            "uitspraak": "Rob, je bent ontslagen k*t!",
+            "uitleg": "Henk's ultieme poging om de planning van RST-Zuid samen met Rob onder controle te krijgen."
+         }, {
+            "uitspraak": "Dan ga ik nu de kade Zuid vervroegen",
+            "uitleg": "Tijdsuitspraak relatief aan de periode waarop een afspraak is afgestemd voor de kade bij Zuid gerekend vanaf de Greenwich Mean Time met Spring Equinox cmpensatie. Het uiteindelijke resultaat van zo'n deze complexe operatie van aanpassing in tijd op een call is alleen begrijpelijk voor dr. Who."
          }
-
-
       ];
 
 
