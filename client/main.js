@@ -5,7 +5,7 @@ import './main.html';
 
 Template.hello.onCreated(function helloOnCreated() {
   this.autorun(() => {
-    this.subscribe('uitpraken');
+    this.subscribe('alluitspraken');
   });
 });
 
